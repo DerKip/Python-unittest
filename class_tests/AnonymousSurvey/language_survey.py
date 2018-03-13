@@ -17,8 +17,4 @@ while True:
 #Show the survey results
 print("\n Thank you for your for your response in the survey \n Here are the results")
 my_survey.show_results()
-# total=dict(my_survey.responses)
-# for a,b in total.items():
-#     if b==1:
-#         print("-"+a)
-#     print('-'+a,b)
+

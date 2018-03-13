@@ -28,4 +28,4 @@ class SurveyTestCase(unittest.TestCase):
 
 
 
-unittest.main()
+# unittest.main()

@@ -1,4 +1,6 @@
 {
+  "function_tests/city_function_test/test_cities.py": true,
+  "function_tests/name_function_test/test_name_function.py": true,
   "function_tests/name_function_test/test_name_function.py::NameTestCase": true,
   "test_name_function.py::NameTestCase": true,
   "test_name_function.py::NameTestCase::test_input_error": true
