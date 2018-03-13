@@ -22,9 +22,4 @@ class MininmuBalanceAccount(BankAccount):
         
 
 
-# client_1= BankAccount(1000)
-# client_1.deposit(500)
-# print("Your balance is {}".format(client_1.balance))
-# client_1.withdraw(1500)
-# print("Your balance is {}".format(client_1.balance))
-# print(client_1.withdraw(1500))
+
