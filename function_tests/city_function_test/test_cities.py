@@ -8,8 +8,8 @@ class TestCityFunctions(unittest.TestCase):
         self.assertEqual(result,'Cairo, Egypt')
     
     def test_city_country_population(self):
-        result=city_country('nairobi','kenya',300000)
-        self.assertEqual(result,'Nairobi, Kenya - population 300000')
+        result=city_country('kampala','uganda',200000)
+        self.assertEqual(result,'Kampala, Uganda - population 200000')
 
 
 

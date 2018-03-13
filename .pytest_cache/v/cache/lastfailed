@@ -1,0 +1,4 @@
+{
+  "test_name_function.py::NameTestCase": true,
+  "test_name_function.py::NameTestCase::test_input_error": true
+}
