@@ -19,4 +19,4 @@ class AnonymousSurvey():
         """Shows the results of the anonymous survey"""
         for response in self.responses:
             print ('-'+response)
- 
+  
