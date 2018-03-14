@@ -26,5 +26,4 @@ class SurveyTestCase(unittest.TestCase):
             self.my_survey.store_response(response)
             self.assertIn(response,self.my_survey.responses)
 
-
-
+unittest.main()
