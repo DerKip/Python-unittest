@@ -4,7 +4,7 @@ from survey import AnonymousSurvey
  
 class SurveyTestCase(unittest.TestCase):
     """Testing AnonymousSurvey class"""
-   
+
 
     def setUp(self):
         """
