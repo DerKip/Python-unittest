@@ -1,6 +1,7 @@
 
 import unittest
-from employee import Employee
+from employee import Employee,Shop
+
 
 class EmployeeTestCase(unittest.TestCase):
     """Testing the Employee class"""
